@@ -1,0 +1,5 @@
+#all .exe files
+*.exe
+
+#all .out files
+*.out
