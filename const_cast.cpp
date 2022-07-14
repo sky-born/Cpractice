@@ -1,3 +1,9 @@
+/* 
+const_cast
+It is used when you want to eliminate const type of pointer or reference temporary.
+
+method : const_cast<new_type>(expression)
+*/
 #include<iostream>
 int main(int argc, char *argv[])
 {
